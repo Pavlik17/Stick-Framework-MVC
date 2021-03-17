@@ -1,0 +1,28 @@
+.btn {
+    margin: 5px !important;
+}
+
+nav, footer {
+    background: #8e24aa !important;
+}
+
+.select-custom {
+    width: 200px;
+}
+
+.card {
+    display: flex;
+    padding: 20px;
+}
+
+#emptyBasket {
+    display: none;
+}
+
+#emptyBasket.active {
+    display: block;
+    text-align: center;
+}
+form {
+    width: 100% !important;
+}
